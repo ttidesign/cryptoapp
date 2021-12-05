@@ -50,6 +50,7 @@ a:hover{
     padding: 20px;
     align-items: center;
     width: 100%;
+    
 }
 .logo{
     margin:0 0 0 15px;
@@ -57,6 +58,7 @@ a:hover{
 .logo a{
    color: white;
 }
+.title{color:white !important}
 .menu-control-container{
     display: none !important;
     position: absolute !important;

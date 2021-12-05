@@ -27,7 +27,7 @@ function App() {
 					</div>
 				</Layout>
         <div className='footer'>
-          <Typography.Title level={5} style={{color:'white', textAlign:'center'}}> Trade App <br/> All rights reserved </Typography.Title>
+          <Typography.Title level={5} style={{color:'white', textAlign:'center'}}> Crypto App <br/> All rights reserved </Typography.Title>
           <Space>
             <Link to='/'> Home </Link>
             <Link to='/exchanges'> Exchanges </Link>
